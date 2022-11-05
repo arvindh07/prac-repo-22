@@ -1,3 +1,0 @@
-bin 1
-bin 2
-bin 3
